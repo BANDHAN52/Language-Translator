@@ -6,7 +6,7 @@
 It uses simple html,css and javasript for functionality.It helps you to pronounce that sentence as well.
 
 
-- Live - <https://language-trans-by-dillirajtimalsina.netlify.app/>
+- Live - <https://language-translatorrr.netlify.app>
 
 
 ## Authors
